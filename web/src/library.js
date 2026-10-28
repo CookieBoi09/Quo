@@ -18,20 +18,20 @@ export const backgrounds = [
     id: "forest",
     name: "Still forest",
     image: "/photos/forest.jpg",
-    color: "#1b3531",
-    ink: "#fffdf0",
+    color: "#00171f",
+    ink: "#ffffff",
   },
-  { id: "paper", name: "Warm paper", color: "#eee9dc", ink: "#484d3e" },
+  { id: "paper", name: "Pure white", color: "#ffffff", ink: "#00171f" },
   {
     id: "mountains",
     name: "Quiet mountains",
     image: "/photos/mountains.jpg",
-    color: "#576d70",
+    color: "#003459",
     ink: "#ffffff",
   },
-  { id: "sage", name: "Soft sage", color: "#cbd3c0", ink: "#344b3d" },
-  { id: "clay", name: "Apricot", color: "#ebd4c3", ink: "#754d3a" },
-  { id: "midnight", name: "After hours", color: "#343e53", ink: "#f2e9d5" },
+  { id: "sage", name: "Bright cyan", color: "#00a8e8", ink: "#00171f" },
+  { id: "clay", name: "Ocean teal", color: "#007ea7", ink: "#ffffff" },
+  { id: "midnight", name: "After hours", color: "#003459", ink: "#ffffff" },
 ];
 export const sizes = [
   {
